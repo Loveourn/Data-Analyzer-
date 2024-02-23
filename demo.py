@@ -32,7 +32,7 @@ def main():
             selected_df = df[selected_columns]
 
             # Initialize DataConnector and DataAnalyzr
-            data_analyzr = DataAnalyzr(df=selected_df, api_key='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')
+            data_analyzr = DataAnalyzr(df=selected_df, api_key='sk-')
 
             # Get analysis insights
             with st.spinner("Analyzing..."):
