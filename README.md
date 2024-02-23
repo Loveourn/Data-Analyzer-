@@ -41,7 +41,7 @@ To set up the project environment, follow these steps:
 To run the CSV Analyzer web application, execute the following command in your terminal:
 
 ```bash
-streamlit run app.py
+streamlit run demo.py
 ```
 
 Access the application in your web browser at http://localhost:8501.
