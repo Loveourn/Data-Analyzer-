@@ -64,6 +64,6 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ### Contact
 
-For questions or feedback regarding the CSV Analyzer project, please contact [help@gmail.com](mailto:meetupadhyaythegreat@gmail.com).
+For questions or feedback regarding the CSV Analyzer project, please contact [Click Here👊](mailto:meetupadhyaythegreat@gmail.com).
 
 Thank you for your interest in the CSV Analyzer with Lyzr AI project! We hope you find it valuable for your data analysis needs. Happy analyzing! 🚀
