@@ -26,7 +26,7 @@ To set up the project environment, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
    
    ```bash
-   git clone https://github.com/your_username/Data-Analyzer.git
+   git clone https://github.com/Loveourn/Data-Analyzer.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using pip.
